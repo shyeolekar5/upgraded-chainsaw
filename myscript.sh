@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Hello, world"
-echo "This has changed again on Github.com"
+echo "There is no line here now"
